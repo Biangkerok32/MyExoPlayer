@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyExoPlayer</string>
+    <string name="introducir_url">Introducir URL</string>
+    <string name="introduzca_la_url_deseada">Introduzca la URL deseada</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="url">URL</string>
+</resources>
